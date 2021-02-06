@@ -1,9 +1,15 @@
 .box-1{
     background-color: blue;
+    width: 100px;
+    height: 100px;
 }
 .box-2{
     background-color: red;
+    width: 100px;
+    height: 100px;
 }
 .box-3{
     background-color: green;
+    width: 100px;
+    height: 100px;
 }
