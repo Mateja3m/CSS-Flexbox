@@ -1,9 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 header h1 {
     width: 500px;
     text-align: center;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: lightgray;
+    margin-bottom: 10px;
 }
 .container {
     background-color: bisque;
